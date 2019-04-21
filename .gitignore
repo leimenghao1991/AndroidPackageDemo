@@ -11,3 +11,10 @@
 /build
 /captures
 .externalNativeBuild
+/build
+*.iml
+gradle/wrapper/*
+/local.properties
+/.idea
+/build
+.gradle/
